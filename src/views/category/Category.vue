@@ -1,13 +1,121 @@
 <template>
-  <h2>分类</h2>
+  <div class='category'>
+    <ul>
+      <li>分类列1</li>
+      <li>分类列2</li>
+      <li>分类列3</li>
+      <li>分类列4</li>
+      <li>分类列5</li>
+      <li>分类列6</li>
+      <li>分类列7</li>
+      <li>分类列8</li>
+      <li>分类列9</li>
+      <li>分类列10</li>
+      <li>分类列11</li>
+      <li>分类列12</li>
+      <li>分类列13</li>
+      <li>分类列14</li>
+      <li>分类列15</li>
+      <li>分类列16</li>
+      <li>分类列17</li>
+      <li>分类列18</li>
+      <li>分类列19</li>
+      <li>分类列20</li>
+      <li>分类列21</li>
+      <li>分类列22</li>
+      <li>分类列23</li>
+      <li>分类列24</li>
+      <li>分类列25</li>
+      <li>分类列26</li>
+      <li>分类列27</li>
+      <li>分类列28</li>
+      <li>分类列29</li>
+      <li>分类列30</li>
+      <li>分类列31</li>
+      <li>分类列32</li>
+      <li>分类列33</li>
+      <li>分类列34</li>
+      <li>分类列35</li>
+      <li>分类列36</li>
+      <li>分类列37</li>
+      <li>分类列38</li>
+      <li>分类列39</li>
+      <li>分类列40</li>
+      <li>分类列41</li>
+      <li>分类列42</li>
+      <li>分类列43</li>
+      <li>分类列44</li>
+      <li>分类列45</li>
+      <li>分类列46</li>
+      <li>分类列47</li>
+      <li>分类列48</li>
+      <li>分类列49</li>
+      <li>分类列50</li>
+      <li>分类列51</li>
+      <li>分类列52</li>
+      <li>分类列53</li>
+      <li>分类列54</li>
+      <li>分类列55</li>
+      <li>分类列56</li>
+      <li>分类列57</li>
+      <li>分类列58</li>
+      <li>分类列59</li>
+      <li>分类列60</li>
+      <li>分类列61</li>
+      <li>分类列62</li>
+      <li>分类列63</li>
+      <li>分类列64</li>
+      <li>分类列65</li>
+      <li>分类列66</li>
+      <li>分类列67</li>
+      <li>分类列68</li>
+      <li>分类列69</li>
+      <li>分类列70</li>
+      <li>分类列71</li>
+      <li>分类列72</li>
+      <li>分类列73</li>
+      <li>分类列74</li>
+      <li>分类列75</li>
+      <li>分类列76</li>
+      <li>分类列77</li>
+      <li>分类列78</li>
+      <li>分类列79</li>
+      <li>分类列80</li>
+      <li>分类列81</li>
+      <li>分类列82</li>
+      <li>分类列83</li>
+      <li>分类列84</li>
+      <li>分类列85</li>
+      <li>分类列86</li>
+      <li>分类列87</li>
+      <li>分类列88</li>
+      <li>分类列89</li>
+      <li>分类列90</li>
+      <li>分类列91</li>
+      <li>分类列92</li>
+      <li>分类列93</li>
+      <li>分类列94</li>
+      <li>分类列95</li>
+      <li>分类列96</li>
+      <li>分类列97</li>
+      <li>分类列98</li>
+      <li>分类列99</li>
+      <li>分类列100</li>     
+    </ul>
+  </div>
 </template>
 
 <script>
-  export default {
-    name: "Category"
-  }
+export default {
+  name : "Category",
+}
 </script>
 
-<style scoped>
-
+<style>
+.category{
+  height:450px;
+  width:200px;
+  background-color: aquamarine;
+  overflow-y:scroll;
+}
 </style>
